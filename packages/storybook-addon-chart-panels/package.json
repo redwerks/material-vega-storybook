@@ -12,7 +12,7 @@
     "Daniel Friesen <d@danf.ca>"
   ],
   "homepage": "https://github.com/redwerks/material-vega/tree/master/packages/storybook-addon-chart-panels#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.js",
   "directories": {
