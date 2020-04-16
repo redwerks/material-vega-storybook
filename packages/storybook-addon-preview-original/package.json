@@ -1,6 +1,6 @@
 {
   "name": "@material-vega/storybook-addon-preview-original",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Storybook addon for Material Vega that adds a button to switch between themed and original previews",
   "keywords": [
     "storybook",
