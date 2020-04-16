@@ -1,6 +1,6 @@
 {
   "name": "@material-vega/storybook-addon-chart-panels",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Storybook addon for Material Vega that adds a panel with Vega chart JSON",
   "keywords": [
     "storybook",
