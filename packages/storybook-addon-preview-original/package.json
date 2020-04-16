@@ -46,5 +46,8 @@
     "@storybook/theming": "^5.3.9",
     "@storybook/ui": "^5.3.9",
     "lodash.merge": "^4.6.2"
+  },
+  "peerDependencies": {
+    "@storybook/addons": "*"
   }
 }
